@@ -1,4 +1,4 @@
 # UQ_Zonal_Inference
 
 
-### rnn and ctgan models will be added later on
+### rnn and ctgan models will be added later on as seperate .py models
