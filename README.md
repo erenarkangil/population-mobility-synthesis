@@ -1,9 +1,11 @@
 # UQ_Zonal_Inference
 
+The purpose of this project, to provide an analysis of individual mobility with respect to socioeconomic factors.
 
-### rnn and ctgan models will be added later on as seperate .py models
+###For detailed results, please check the article
 
-For detailed results, please check the article
+
+
 
 
 
@@ -11,3 +13,7 @@ For detailed results, please check the article
 
 
 ![allindus](https://user-images.githubusercontent.com/47353633/227069483-e615d22d-0388-4159-99f9-2d22436b96c6.svg)
+
+
+
+-rnn and ctgan models will be added later on as seperate .py models
