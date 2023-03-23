@@ -3,10 +3,11 @@
 
 ### rnn and ctgan models will be added later on as seperate .py models
 
+For detailed results, please check the article
 
 
 
+![fakedest-cropped](https://user-images.githubusercontent.com/47353633/227069415-b1cc0d26-93e2-4e60-afeb-298d4c6c078c.svg)
 
-![alt text](https://imgur.com/jKJ1Tzf)
-![1](https://imgur.com/y2khunu)
-![1](https://github.com/erenarkangil/population-mobility-synthesis/tree/main/results/realdest2.svg)
+
+![allindus](https://user-images.githubusercontent.com/47353633/227069483-e615d22d-0388-4159-99f9-2d22436b96c6.svg)
