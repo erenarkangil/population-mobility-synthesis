@@ -16,4 +16,4 @@ The purpose of this project, to provide an analysis of individual mobility with 
 
 
 
--rnn and ctgan models will be added later on as seperate .py models
+Rnn and ctgan models will be added later on as seperate .py models
