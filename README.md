@@ -2,7 +2,7 @@
 
 The purpose of this project, to provide an analysis of individual mobility with respect to socioeconomic factors.
 
-###For detailed results, please check the article
+### For detailed results, please check the article
 
 
 
