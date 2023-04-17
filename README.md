@@ -1,19 +1,11 @@
 # UQ_Zonal_Inference
-
-The purpose of this project, to provide an analysis of individual mobility with respect to socioeconomic factors.
-
-### For detailed results, please check the article
+### For detailed results, please check the articleThe purpose of this project, to provide an analysis of individual mobility with respect to socioeconomic factors.
 
 
 
+Trip generation is a procedure that uses socioeconomic data (e.g., household size, income, etc.) to estimate the number of person trips for a modeled time period (e.g., daily, peak hour) at a Traffic Analysis Zone (TAZ) level. A person trip involves a single person leaving from an origin and arriving at a single destination, and each trip has a classification/purpose based on typical classification such as home-based-work (HBW), home-based-other (HBO), and non-home-based (NHB).
 
 
-
-![fakedest-cropped](https://user-images.githubusercontent.com/47353633/227069415-b1cc0d26-93e2-4e60-afeb-298d4c6c078c.svg)
-
-
-![allindus](https://user-images.githubusercontent.com/47353633/227069483-e615d22d-0388-4159-99f9-2d22436b96c6.svg)
+![Uploading 19d7918a267236bd2e454531c6fdad54.png…]()
 
 
-
-Rnn and ctgan models will be added later on as seperate .py models
