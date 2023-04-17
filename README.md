@@ -1,5 +1,5 @@
 # UQ_Zonal_Inference
-### For detailed results, please check the articleThe purpose of this project, to provide an analysis of individual mobility with respect to socioeconomic factors.
+### For detailed results, please check the article
 
 
 
